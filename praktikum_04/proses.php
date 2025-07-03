@@ -57,7 +57,7 @@ $daftar_kunjungan = Kunjungan::getAll();
                 <?php endforeach; ?>
             </tbody>
         </table>
-        <a href="index"><< kembali</a>
+        <a href="index.php"><< kembali</a>
     </div>
 </body>
 
